@@ -17,12 +17,16 @@ ___
 <a href="https://leetcode.com/Abhishek_tech12/" target="_blank">
   <img src="https://cdn.iconscout.com/icon/free/png-256/leetcode-3521542-2944960.png" width="30" height="30" alt="LeetCode" />
 </a>
+<a href="mailto:kushwahaabhi443@gmail.com">
+  <img src="https://img.icons8.com/color/48/gmail--v1.png" width="40" height="40" alt="Gmail" />
+</a>
 
 <br/>
 
 <sub>
   <a href="https://iconscout.com/contributors/icon-54" target="_blank"></a><a href="https://iconscout.com" target="_blank"></a>
 </sub>
+
 
 ##### Languages and Tools:
 ___
@@ -78,8 +82,40 @@ ___
   <a href="https://www.python.org/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/Python-logo.png" alt="Python" width="60" />
   </a>
+  
+  <!-- PostgreSQL -->
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" width="40" height="40"/>
+  </a>
+</div>
 
 </div>
+
+___
+
+## 📊 GitHub Stats & Activity
+<div align="center">
+
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhishekkushwaha1&show_icons=true&theme=tokyonight&border_radius=10&hide_title=true" alt="GitHub Stats" height="180" />
+
+  <!-- Most Used Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishekkushwaha1&layout=compact&theme=tokyonight&hide_title=true&border_radius=10" alt="Top Languages" height="180" />
+
+</div>
+
+***
+<a href="https://github.com/Abhishekkushwaha1">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
+</a>
+<a href="mailto:kushwahaabhi443@gmail.com">
+  <img src="https://img.icons8.com/color/48/gmail--v1.png" width="40" height="40" alt="Gmail" />
+</a>
+
+
+
+
+
 
 
 
