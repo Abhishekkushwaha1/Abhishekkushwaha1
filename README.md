@@ -24,6 +24,17 @@ ___
   <a href="https://iconscout.com/contributors/icon-54" target="_blank"></a><a href="https://iconscout.com" target="_blank"></a>
 </sub>
 
+##### Languages and Tools:
+___
+
+<a href="https://www.python.org/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/Python-logo.png" width="100" alt="Python" />
+</a>
+
+<a href="https://www.mongodb.com/" target="_blank">
+  <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" width="120" alt="MongoDB" />
+</a>
+
 
 
 
