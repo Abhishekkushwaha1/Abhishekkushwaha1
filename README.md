@@ -7,7 +7,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on with Wyreflow Technologies
 - 🌱 I’m currently learning Devops,MERN
 - 💬 Ask me about JS,MERN,Python,HTML,SQL
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me: kushwahaabhi443@gmail.com 
+
+
